@@ -9,7 +9,7 @@ PIP_MODULES := \
 	djangorestframework==3.9.4
 ```
 ## For hue_python_modules.tar.gz
-https://github.com/bhagadepravin/download/blob/main/hue_python_modules.tar.gz
+https://github.com/bhagadepravin/hue_python_module_download/blob/main/hue_python_modules.tar.gz
 ```python
 tar -xvzf hue_python_modules.tar.gz
 cd hue_python_modules
@@ -18,7 +18,7 @@ pip install --no-index --find-links=./ enum34 cryptography==3.3.2  future==0.18.
 
 
 ## For hue_python_modules_1.tar.gz
-https://github.com/bhagadepravin/download/blob/main/hue_python_modules_1.tar.gz
+https://github.com/bhagadepravin/hue_python_module_download/blob/main/hue_python_modules_1.tar.gz
 
 ```python
 tar -xvzf hue_python_modules_1.tar.gz
